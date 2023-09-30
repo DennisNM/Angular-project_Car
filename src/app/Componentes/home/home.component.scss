@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Pacifico&family=Roboto:ital,wght@1,500&family=Water+Brush&display=swap');
+
+p{
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.backgraoundColor{
+
+    width: 100%;
+    width: 100%;
+
+}
+
+.car{
+width: 75%;
+height: 75%;
+margin-top: -100%;
+
+object-fit: contain;
+}
+
+.text-home{
+  margin-top: 10px;
+}
+
+.text-main{
+    font-size: 8vw; 
+    position: relative;
+     margin-top: 45.0%;
+     margin-bottom: 10.7%;
+}
+
+.text-main-second{
+
+    &.text-main {
+
+    
+    position: relative;
+    
+    }
+    margin-top: 5.5%;
+    font-size: 3.5vw; 
+
+}
+
+.container-images {
+    display: flex; 
+    justify-content: center;
+    flex-direction: row; 
+    align-items: flex-start; 
+    height: 200px; 
+    padding: 20px;
+  }
+
+.images{
+    width: 50%;
+}
+
+ .image-wrapper {
+   position: relative;
+   left: -8px;
+   top: 4px;
+   width: 56.0%;
+
+  }
+
+.item{
+
+  flex: 1; 
+  height: 50%;
+  width: 50%;  
+  margin: 0 10px;
+   
+
+}
+
+.text-company{
+    font-size: 2vw;
+}

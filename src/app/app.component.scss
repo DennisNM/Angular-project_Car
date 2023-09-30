@@ -1,0 +1,22 @@
+.content-container {
+    max-height: calc(100vh);
+    overflow-y: auto;
+  }
+  
+  /* Exemplo de estilos para app-header e app-footer */
+  app-header {
+    height: 50px; /* Altura do app-header */
+    background-color: #333;
+    color: #fff;
+  }
+  
+  app-footer {
+    height: 30px; /* Altura do app-footer */
+    background-color: #333;
+    color: #fff;
+  }
+
+  app-home {
+    max-height: calc(100vh );
+    overflow-y: auto;
+  }
